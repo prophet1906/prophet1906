@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/prophet1906?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/prophet1906"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prophet1906&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/prophet1906"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prophet1906&theme=default" /></a>
 
 ### Support Me
 
