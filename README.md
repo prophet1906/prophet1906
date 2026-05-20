@@ -8,7 +8,7 @@ I am Software Architect at SAP, specializing in distributed systems and enterpri
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [shubham.null@gmail.com](mailto:shubham.null@gmail.com)
-* 🚀  I'm currently working on [Pi Reaper](http://github.com/prophet1906/pi-reaper)
+* 🚀  I'm currently working on a new formal verification method for distributed systems.
 * 🧠  I'm currently learning Helm, Promptfoo, BAML
 * 👥  I'm looking to collaborate on anything involving durable/long horizon agents.
 * 💬  Ask me about Working to bring formal verification into production systems.
